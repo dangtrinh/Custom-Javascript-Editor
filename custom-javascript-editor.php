@@ -2,7 +2,7 @@
 Plugin Name:  New Custom JavaScript Editor
 Plugin URI:   https://github.com/dangtrinh/Custom-Javascript-Editor.git
 Description:  Add custom JavaScript to your site from an editor in the WordPress admin
-Version:      0.1
+Version:      10
 Author:       Trinh Nguyen, Automattic
 Author URI:   http://me.dangtrinh.com
 License:      GPLv2 or later
